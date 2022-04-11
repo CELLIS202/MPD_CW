@@ -40,10 +40,8 @@ public class MainActivity extends Activity  {
 		cibutton = (Button) findViewById(R.id.prwbutton);
 
 
-		//Get reference to our ListView
 		sitesList = (ListView) findViewById(R.id.sitesList);
 
-		//Set the click listener to launch the browser when a row is clicked.
 		sitesList.setOnItemClickListener(new OnItemClickListener() {
 
 			@Override
