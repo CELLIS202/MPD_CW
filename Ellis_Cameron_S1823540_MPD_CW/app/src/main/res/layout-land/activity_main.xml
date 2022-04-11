@@ -12,11 +12,12 @@
             android:layout_height="wrap_content"
             android:textSize="20sp"
             android:text="Welcome to Mobile Platform Development Assignment 2021-2022"/>
-        <Button
-            android:id="@+id/prwbutton"
-            android:layout_width="fill_parent"
-            android:layout_height="wrap_content"
-            android:text="Press to get data on planned roadworks"/>
+
+    <Button
+        android:id="@+id/prwbutton"
+        android:layout_width="719dp"
+        android:layout_height="wrap_content"
+        android:text="Press to get data on planned roadworks" />
         <Button
             android:id="@+id/rwbutton"
             android:layout_width="fill_parent"
